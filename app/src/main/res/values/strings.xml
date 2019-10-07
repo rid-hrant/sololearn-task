@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="delete">Delete</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="save">Save</string>
+    <string name="edit_contact">Edit Contact</string>
+    <string name="done">Done</string>
+    <string name="create">Create</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+</resources>
